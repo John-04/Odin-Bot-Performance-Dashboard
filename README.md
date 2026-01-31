@@ -1,4 +1,4 @@
-# Odin-Bot-Performance-Dashboard# OdinBot Performance Dashboard ⚡
+# OdinBot Performance Dashboard ⚡
 
 A comprehensive analytics dashboard built on Dune Analytics that tracks and visualizes the performance of OdinBot, a Solana-based copy-trading bot designed for speed and efficiency.
 
