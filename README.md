@@ -8,7 +8,7 @@ OdinBot is a high-performance copy-trading bot that claims to be the fastest in 
 
 **Live Dashboard:** [View on Dune Analytics](https://dune.com/_john_/odin-bot-performance-dashboard)
 
-![Dashboard Preview](Screenshot 2026-01-31 061210.png)
+![Dashboard Preview](https://github.com/John-04/Odin-Bot-Performance-Dashboard/blob/main/Screenshot%202026-01-31%20061210.png)
 
 ## Key Metrics
 
